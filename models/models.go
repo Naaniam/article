@@ -24,8 +24,8 @@ type Comment struct {
 	Nickname     string     `json:"nickname" gorm:"column:nickname" validate:"required"`
 	Content      string     `json:"content" gorm:"column:content" validate:"required"`
 	CreationDate time.Time  `json:"creation_date" gorm:"column:creation_date"`
-	UpdatedAt    time.Time  `json:"updated_at"`
-	DeletedAt    *time.Time `json:"deleted_at,omitempty"`
+	UpdatedAt    time.Time  `json:"updated_at"  gorm:"column:updated_at"`
+	DeletedAt    *time.Time `json:"deleted_at,omitempty"  gorm:"column:deleted_at"`
 	Replies      []Reply    `json:"replies,omitempty" gorm:"foreignKey:CommentID"`
 }
 
