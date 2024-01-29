@@ -24,7 +24,7 @@ The following endpoints are available in the application:
 - `GET /list-all-articles`:
 - `GET /list-article-by-id`:
 
-## Comment Management
+### Comment Management
 - `POST: /add-comment/`
 - `POST: /add-comment-on-comment/`
 - `GET: /list-all-comments/`
