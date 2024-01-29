@@ -20,14 +20,14 @@ The project is organized into several packages, each responsible for specific fu
 The following endpoints are available in the application:
 
 ### Article Management
-- `POST /add-article` : Add a new artcile with details nickname, title, content
-- `GET /list-all-articles`:
-- `GET /list-article-by-id`:
+- `POST localhost:8000/article-exe/v1/article/add-article` : Add a new artcile with details nickname, title, content
+- `GET localhost:8000/article-exe/v1/article/list-all-articles?page=`: Get all the articles 
+- `GET localhost:8000/article-exe/v1/article/list-article-by-id/?article_id=`: Get the article with the given ID
 
 ### Comment Management
-- `POST: /add-comment/`
-- `POST: /add-comment-on-comment/`
-- `GET: /list-all-comments/`
+- `POST localhost:8000/article-exe/v1/comment/add-comment?article_id=` : Post comment for the article based on the article ID
+- `POST localhost:8000/article-exe/v1/comment/add-comment-on-comment/?comment_id=` : Post reply for the comment based on the given comment ID
+- `GET localhost:8000/article-exe/v1/comment/list-all-comments/?article_id=` : Get all the comments for the given Post ID 
 
 # Error Handling
 The application handles various error scenarios and provides appropriate error responses with corresponding status codes and messages.
