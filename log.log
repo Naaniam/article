@@ -373,3 +373,31 @@
 [INFO:] 2024/01/29 17:06:56.729310 handlers.go:126: Message : 'Added comment successfully' Status : 201
 [INFO:] 2024/01/29 17:07:01.443660 handlers.go:71: Message : 'ListAllArticles-API called'
 [INFO:] 2024/01/29 17:07:01.444436 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:09:56.551583 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 17:09:56.570969 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 17:10:09.463471 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 17:10:09.464228 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:14:09.730810 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 17:14:09.749908 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 17:14:22.558783 handlers.go:91: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/29 17:14:22.562172 handlers.go:99: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:15:53.895825 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 17:15:53.914743 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 17:19:05.536715 handlers.go:135: Message : 'LisAllComments-API called'
+[INFO:] 2024/01/29 17:19:05.540946 handlers.go:146: Message : 'Comment(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:19:24.662132 handlers.go:110: Message : 'AddComment-API called'
+[INFO:] 2024/01/29 17:19:24.675689 handlers.go:126: Message : 'Added comment successfully' Status : 201
+[INFO:] 2024/01/29 17:19:37.991498 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[INFO:] 2024/01/29 17:19:38.000973 handlers.go:171: Message : 'Added comment(s) on comment' Status : 200
+[INFO:] 2024/01/29 17:19:41.530314 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/29 17:19:41.536488 handlers.go:165: Error : comment ID not found Status : 400
+[INFO:] 2024/01/29 17:19:47.190974 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[INFO:] 2024/01/29 17:19:47.204063 handlers.go:171: Message : 'Added comment(s) on comment' Status : 200
+[INFO:] 2024/01/29 17:21:01.838252 handlers.go:135: Message : 'LisAllComments-API called'
+[INFO:] 2024/01/29 17:21:01.846079 handlers.go:146: Message : 'Comment(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:21:09.985345 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[INFO:] 2024/01/29 17:21:10.006113 handlers.go:171: Message : 'Added comment(s) on comment' Status : 200
+[INFO:] 2024/01/29 17:21:14.637270 handlers.go:135: Message : 'LisAllComments-API called'
+[INFO:] 2024/01/29 17:21:14.639212 handlers.go:146: Message : 'Comment(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:22:11.796526 handlers.go:135: Message : 'LisAllComments-API called'
+[INFO:] 2024/01/29 17:22:11.800715 handlers.go:146: Message : 'Comment(s) retrieved successfully' Status : 200

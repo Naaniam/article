@@ -121,7 +121,7 @@ func (h *Handler) AddComment(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": err.Error()})
 	}
 
-	utilities.PublishToKafka(fmt.Sprintf("%v", comment), "comment.create", comment.ID)
+	go utilities.PublishToKafka(fmt.Sprintf("%v", comment), "comment.create", comment.ID)
 
 	log.Info.Println("Message : 'Added comment successfully' Status : 201")
 	return c.Status(fiber.StatusCreated).JSON(fiber.Map{"Message": "Added comment successfully", "CommentID": comment.ID})
@@ -140,7 +140,7 @@ func (h *Handler) LisAllComments(c *fiber.Ctx) error {
 	}
 
 	for _, comment := range comments {
-		go utilities.PublishToKafka(fmt.Sprintf("%v", comment), "get-comments-by-post-id", comment.ID)
+		go utilities.PublishToKafka(fmt.Sprintf("%v", comment), "articles.get-comments-by-post-id", comment.ID)
 	}
 
 	log.Info.Println("Message : 'Comment(s) retrieved successfully' Status : 200")
@@ -166,7 +166,8 @@ func (h *Handler) AddCommentOnComment(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": err.Error()})
 	}
 
-	go utilities.PublishToKafka(fmt.Sprintf("%v", reply), "post-comment-on-create", reply.ID)
+	go utilities.PublishToKafka(fmt.Sprintf("%v", reply), "articles.post-comment-on-comment", reply.ID)
+
 	log.Info.Println("Message : 'Added comment(s) on comment' Status : 200")
 	return c.Status(fiber.StatusOK).JSON(fiber.Map{"Message": "Added comment on comment successfully"})
 }
