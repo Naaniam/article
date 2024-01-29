@@ -1,16 +1,28 @@
 package logs
 
 import (
-	"article/models"
-	"log"
 	"os"
+
+	"github.com/sirupsen/logrus"
 )
 
+type Logs struct {
+	Info  *logrus.Entry
+	Error *logrus.Entry
+}
+
 // Create a custom log
-func Log() (logger models.Logs) {
-	log.SetFlags(log.Ldate | log.Lmicroseconds | log.Lshortfile)
-	file, _ := os.OpenFile("log.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	logger.Info = log.New(file, "[INFO:] ", log.Ldate|log.Lmicroseconds|log.Lshortfile)
-	logger.Error = log.New(file, "[ERROR:]", log.Ldate|log.Lmicroseconds|log.Lshortfile)
-	return
+func Log() (logger Logs) {
+	logrusLogger := logrus.New()
+
+	// Create a new log file or open an existing one
+	file, err := os.OpenFile("log.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		logrusLogger.Fatal("Failed to open log file: ", err)
+	}
+
+	// Set the log output to the file
+	logrusLogger.SetOutput(file)
+
+	return logger
 }

@@ -10,17 +10,21 @@ import (
 	// third party package
 
 	"github.com/joho/godotenv"
+	"github.com/sirupsen/logrus"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
 
 func SQLDriver() *gorm.DB {
 	var err error
-	log := logs.Log()
+
+	logrusEntry := logrus.WithFields(logrus.Fields{
+		"function": "DB connection",
+	})
 
 	err = godotenv.Load(".env")
 	if err != nil {
-		log.Error.Println("Error : 'Error at loading '.env' file'")
+		logrusEntry.Errorf("Error : 'Error at loading '.env' file'")
 		return nil
 	}
 
@@ -28,11 +32,11 @@ func SQLDriver() *gorm.DB {
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", os.Getenv("USER"), os.Getenv("PASSWORD"), os.Getenv("HOST"), os.Getenv("PORT"), os.Getenv("DATABASE"))
 	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
-		log.Error.Println("Error : 'Invalid Database connection' ", err)
+		logrusEntry.Error("Error : 'Invalid Database connection' ", err)
 		panic(err)
 	}
 
-	log.Info.Printf("Message : 'Established a successful connection to the database!!!'\n")
+	logrusEntry.Info("Message : 'Established a successful connection to the database!!!'\n")
 	return db
 }
 
