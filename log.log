@@ -365,3 +365,11 @@
 [INFO:] 2024/01/29 16:54:23.614606 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
 [INFO:] 2024/01/29 16:55:10.775533 handlers.go:91: Message : 'ListArticleByID-API called'
 [INFO:] 2024/01/29 16:55:10.777656 handlers.go:99: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:06:42.410988 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 17:06:42.430000 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 17:06:49.715507 handlers.go:135: Message : 'LisAllComments-API called'
+[INFO:] 2024/01/29 17:06:49.717112 handlers.go:146: Message : 'Comment(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 17:06:56.710499 handlers.go:110: Message : 'AddComment-API called'
+[INFO:] 2024/01/29 17:06:56.729310 handlers.go:126: Message : 'Added comment successfully' Status : 201
+[INFO:] 2024/01/29 17:07:01.443660 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 17:07:01.444436 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
