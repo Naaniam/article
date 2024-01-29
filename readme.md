@@ -14,7 +14,8 @@ The project is organized into several packages, each responsible for specific fu
 - `models`    : Defines the data models used in the application.
 - `repository`: Contains functions for interacting with the database.
 - `drivers`   : Contains functions for establish a connection to database.
-- `utilities` : Custom package that contains all the constants.
+- `utilities` : Custom package that contains all the utilities for the application.
+- `helpers`   : Contains all the constants used in the application.
 
 # Endpoints
 The following endpoints are available in the application:
