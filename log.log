@@ -1,0 +1,343 @@
+[INFO:] 2024/01/26 14:21:02.079090 dbConnection.go:33: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/26 14:21:02.145317 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/26 14:21:25.291976 handlers.go:55: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/26 14:21:25.294485 handlers.go:61: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/26 15:29:18.717219 dbConnection.go:33: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/26 15:29:18.813656 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/26 15:29:27.588426 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:27.665723 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:29.254811 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:29.306021 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:31.733558 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:31.765292 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:32.957856 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:32.987249 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:34.010283 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:34.076472 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:34.981497 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:35.042548 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:35.595935 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:35.643791 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:36.312398 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:36.343000 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:36.931911 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:36.976638 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:37.509505 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:37.542402 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:38.147859 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:38.178921 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:39.004893 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:39.065221 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:39.956311 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:39.998808 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:40.893256 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:40.965309 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:41.598699 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:41.676395 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:42.279372 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:42.332268 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:43.086178 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:43.154791 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:43.932554 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:44.032197 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:46.165318 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:46.221888 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:46.819594 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:46.888210 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:47.543417 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 15:29:47.631879 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 15:29:52.946762 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/26 15:29:52.973663 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/26 15:31:11.666466 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/26 15:31:11.668055 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/26 15:31:16.630810 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/26 15:31:16.634408 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/26 15:31:25.794001 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/26 15:31:25.795989 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[ERROR:]2024/01/26 23:55:12.001173 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[INFO:] 2024/01/26 23:55:46.415023 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/26 23:55:48.925634 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/27 00:06:03.162478 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 00:06:03.206624 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/27 00:06:04.121346 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:06:04.125942 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:06:07.457498 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:06:07.461680 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:06:21.454503 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:21.798261 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:29.786200 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:29.968494 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:31.251338 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:31.375765 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:31.685636 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:31.775184 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:32.406903 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:32.511624 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:36.515154 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:36.637360 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:37.529613 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:37.640476 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:38.033383 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:38.088523 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:06:39.662269 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:06:39.761436 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:07:20.319315 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:07:20.322075 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:41:05.171710 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 00:41:05.206170 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/27 00:41:10.242540 handlers.go:95: Message : 'AddComment-API called'
+[INFO:] 2024/01/27 00:41:10.404126 handlers.go:109: Message : 'Added comment successfully' Status : 201
+[INFO:] 2024/01/27 00:41:20.194062 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 00:41:20.195565 handlers.go:144: Error : comment ID not found Status : 400
+[INFO:] 2024/01/27 00:41:24.023821 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[INFO:] 2024/01/27 00:41:24.138319 handlers.go:148: Message : 'Added comment(s) on comment' Status : 200
+[INFO:] 2024/01/27 00:52:37.911220 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 00:52:37.939559 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/27 00:54:23.820416 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 00:54:23.853470 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+<<<<<<< HEAD
+[ERROR:]2024/01/27 15:11:58.014370 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:11:58.021447 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:18:32.476469 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:24:11.333649 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:24:51.635110 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[INFO:] 2024/01/27 15:25:33.633759 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 15:25:33.918435 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[ERROR:]2024/01/27 15:44:41.202460 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:45:38.232984 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:46:12.402882 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 15:56:32.289368 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1698 (28000): Access denied for user 'root'@'localhost'
+[ERROR:]2024/01/27 15:57:50.986514 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1049 (42000): Unknown database 'article'
+[ERROR:]2024/01/27 15:58:17.618294 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1049 (42000): Unknown database 'article'
+[ERROR:]2024/01/27 16:20:50.999249 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/27 16:40:33.611016 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:33061: connect: connection refused
+[ERROR:]2024/01/27 16:40:39.046975 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:33061: connect: connection refused
+[ERROR:]2024/01/27 16:40:48.119190 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:33061: connect: connection refused
+[ERROR:]2024/01/27 21:46:12.092875 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[INFO:] 2024/01/27 21:50:36.534269 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 21:50:36.558223 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/27 21:59:50.273708 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/27 21:59:50.297829 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+=======
+[ERROR:]2024/01/29 10:06:41.716072 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/29 10:25:29.448525 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/29 10:26:08.261583 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp 127.0.0.1:3306: connect: connection refused
+[ERROR:]2024/01/29 10:28:04.698328 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp: lookup WINDOWS_HOST_IP:3306:3306: no such host
+[ERROR:]2024/01/29 10:29:35.729574 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp: lookup 192.168.1.157:3306:3306: no such host
+[ERROR:]2024/01/29 10:31:23.932989 dbConnection.go:31: Error : 'Invalid Database connection'  dial tcp: lookup 192.168.1.157:3306:3306: no such host
+[ERROR:]2024/01/29 10:35:28.481995 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1130: Host 'host.docker.internal' is not allowed to connect to this MySQL server
+[ERROR:]2024/01/29 10:36:08.102701 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1045 (28000): Access denied for user 'mitrah135'@'localhost' (using password: YES)
+[ERROR:]2024/01/29 10:38:53.639618 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1045 (28000): Access denied for user 'mitrah135'@'localhost' (using password: YES)
+[ERROR:]2024/01/29 10:41:05.286940 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1049 (42000): Unknown database 'article'
+[ERROR:]2024/01/29 10:41:49.008763 dbConnection.go:31: Error : 'Invalid Database connection'  Error 1049 (42000): Unknown database 'article'
+[INFO:] 2024/01/29 10:42:02.506599 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 10:42:02.673854 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 10:44:15.460650 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 10:44:15.479350 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 10:46:59.089646 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 10:46:59.104368 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 10:47:46.372060 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 10:47:46.386317 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 10:51:17.461376 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 10:51:17.477077 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 10:53:56.019528 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 10:53:56.041988 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 11:00:27.880755 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 11:00:27.894117 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 11:07:57.105018 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 11:07:57.120919 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 11:09:17.913094 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 11:09:17.928473 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 11:10:37.644744 handlers.go:69: Message : 'ListAllArticles-API called'
+[ERROR:]2024/01/29 11:10:37.646138 handlers.go:71: Error : no articles yet! Status : 404
+[INFO:] 2024/01/29 11:11:06.290077 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 11:11:06.304190 handlers.go:52: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 11:11:19.815289 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 11:11:19.834316 handlers.go:52: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 11:12:17.699663 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 11:12:17.707511 handlers.go:52: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 11:12:55.268529 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 11:12:55.281906 handlers.go:52: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 11:37:38.578372 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 11:37:38.605490 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 11:51:56.999190 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 11:51:57.026305 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 11:52:10.716776 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 11:52:10.728098 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 11:52:20.148030 handlers.go:68: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 11:52:20.148810 handlers.go:74: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 12:11:11.003028 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:11:11.029671 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:11:26.566069 handlers.go:68: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 12:11:26.566804 handlers.go:74: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 12:12:21.979246 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:12:21.994809 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:13:13.317964 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:13:13.327003 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:25:54.738163 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:25:54.767546 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:25:54.768095 routing.go:36: Message : 'Error at start a server...' Status : 500
+[INFO:] 2024/01/29 12:26:31.529343 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:26:31.551158 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:26:43.494823 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:26:43.504664 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:33:33.600076 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:33:33.623444 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:35:07.509926 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:35:07.521467 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:35:25.837370 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:35:25.861040 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:35:35.765888 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:35:35.778039 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:43:47.272695 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:43:47.413014 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:44:02.723029 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:44:02.731477 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:56:49.629465 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:56:49.653564 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:56:58.655311 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:56:58.669276 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:57:16.979262 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:57:17.000437 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:57:19.971437 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:57:19.980975 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:57:43.804737 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:57:43.824098 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:57:50.446637 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:57:50.459933 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:58:56.045367 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:58:56.065969 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 12:58:59.665207 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 12:58:59.677287 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 12:59:58.072456 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 12:59:58.093954 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:00:04.570683 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:00:04.591030 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:00:30.655310 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:00:30.687472 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:00:56.632677 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:01:10.734860 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:01:50.661142 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:01:50.677009 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:02:06.461447 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:02:06.476730 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:02:25.165597 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:02:25.173078 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:24:53.729407 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:24:53.745961 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:25:01.138465 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:26:41.037453 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:26:41.053465 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:26:45.463752 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:26:52.713261 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:26:52.727425 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:27:00.945883 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:27:46.547358 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:27:46.561984 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:27:58.088861 handlers.go:38: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:29:00.995843 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:29:01.013953 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:29:05.259306 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:29:50.879445 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:29:50.896574 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:29:54.148796 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:30:48.240765 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:30:48.254766 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:30:57.708172 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:31:14.471357 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:31:14.486016 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:31:16.192535 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:31:37.074259 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:31:37.088262 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:31:40.054826 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:32:32.145739 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:32:32.157872 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:32:35.534774 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:33:39.386204 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:33:39.400884 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:33:46.514428 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:35:13.534192 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:35:13.548472 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:35:20.241808 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:35:20.261354 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:36:51.926275 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:36:51.942735 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:36:59.775406 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:36:59.791058 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:37:12.743674 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:37:12.761083 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:37:14.979737 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:37:14.997900 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:37:44.559962 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:37:44.578495 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:37:46.792684 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:37:46.814353 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:39:36.526042 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:39:36.542744 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:39:41.900553 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:39:41.921474 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:40:40.796595 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:40:40.811326 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:40:44.757897 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:40:44.771222 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:42:56.231961 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:42:56.245663 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:43:48.768065 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:43:48.785779 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:43:57.202396 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:43:57.217242 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:44:31.866253 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:44:31.878543 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:48:45.395208 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:48:45.407588 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:51:37.184833 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:51:37.203302 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:52:12.311268 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:52:12.324488 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:52:15.996689 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:52:16.027303 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:52:32.659043 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:52:32.677315 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:53:05.294436 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:53:05.307605 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:53:10.984038 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:53:10.998384 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:53:37.920720 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:53:37.928949 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 13:55:00.321764 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 13:55:00.336471 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 13:55:06.775042 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 13:55:06.789716 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 14:02:41.410413 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 14:02:41.427104 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 14:03:01.471186 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 14:03:01.481799 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 14:03:48.795554 handlers.go:103: Message : 'AddComment-API called'
+[INFO:] 2024/01/29 14:03:48.814059 handlers.go:118: Message : 'Added comment successfully' Status : 201
+[INFO:] 2024/01/29 14:06:07.749352 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 14:06:07.765976 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 14:06:19.724645 handlers.go:127: Message : 'LisAllComments-API called'
+[ERROR:]2024/01/29 14:06:19.731273 handlers.go:130: Error : no comments yet Status : 400
+[INFO:] 2024/01/29 14:06:23.998944 handlers.go:127: Message : 'LisAllComments-API called'
+[INFO:] 2024/01/29 14:06:24.008983 handlers.go:138: Message : 'Comment(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 14:06:36.102217 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 14:06:36.102846 handlers.go:77: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 15:04:16.615980 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 15:04:16.744883 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 15:04:31.898829 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 15:04:31.912118 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 15:05:05.031810 handlers.go:71: Message : 'ListAllArticles-API called'
+[ERROR:]2024/01/29 15:05:05.033194 handlers.go:73: Error : no articles yet! Status : 404
+[INFO:] 2024/01/29 15:05:15.389905 handlers.go:71: Message : 'ListAllArticles-API called'
+[ERROR:]2024/01/29 15:05:15.390671 handlers.go:73: Error : no articles yet! Status : 404
+[INFO:] 2024/01/29 15:05:25.532620 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 15:05:25.533351 handlers.go:77: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 15:05:45.070758 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 15:05:45.084544 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 15:12:09.849875 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 15:12:09.873630 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 15:12:17.068473 handlers.go:110: Message : 'AddComment-API called'
+[INFO:] 2024/01/29 15:12:17.094140 handlers.go:126: Message : 'Added comment successfully' Status : 201
+[INFO:] 2024/01/29 15:13:19.592263 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 15:13:19.593237 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
+>>>>>>> a9db1ec (added message queue)

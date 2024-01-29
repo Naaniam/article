@@ -1,0 +1,1048 @@
+[ERROR:]2024/01/26 19:08:16.911815 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[ERROR:]2024/01/26 19:10:39.440151 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[ERROR:]2024/01/26 19:10:44.551479 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[ERROR:]2024/01/26 19:15:11.127899 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[ERROR:]2024/01/26 19:16:54.490947 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:16:54.497747 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:16:54.498257 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:18:10.695069 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:18:10.698869 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:18:10.702982 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:18:35.902530 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:18:35.904905 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:18:35.905971 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:19:53.775829 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:19:53.778370 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:19:53.779742 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:19:53.780914 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:19:53.781423 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:20:25.790540 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:20:25.794049 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:20:25.795259 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:20:25.795767 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:20:25.796415 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:20:25.796415 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:20:25.796415 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:26:38.293956 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:26:38.295813 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:26:38.296395 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:26:38.297099 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:26:38.297099 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:26:38.297606 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:26:38.297606 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:27:15.703128 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:27:15.705227 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:27:15.706442 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:27:15.706999 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:27:15.706999 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:27:15.707574 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:27:15.707574 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:36:13.227812 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[ERROR:]2024/01/26 19:43:54.036631 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:43:54.058554 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:43:54.059815 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:43:54.060324 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:43:54.060857 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:45:10.641141 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:45:10.642735 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:45:10.643822 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:45:10.644355 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:45:10.644355 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:45:10.645012 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:45:10.645012 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:47:39.343932 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:47:39.385688 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:47:39.386197 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:47:39.387284 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:47:39.387825 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:47:39.387825 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:47:39.387825 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:49:35.957741 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:49:35.982463 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:49:35.983902 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:49:35.985209 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:49:35.985209 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:49:35.986664 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:49:35.987676 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:52:21.969061 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:52:21.969061 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:52:21.969061 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:52:21.980315 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:52:21.980315 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:52:21.980315 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:52:21.983033 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 19:55:01.137480 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:55:01.139580 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:55:01.142458 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:55:01.144083 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:55:01.144616 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:55:01.145204 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:55:01.145204 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:55:01.145864 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:58:53.481564 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 19:58:53.482530 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:58:53.489344 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:58:53.492213 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:58:53.493123 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 19:58:53.493654 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 19:58:53.494622 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 20:00:03.135200 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:00:03.138603 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:00:03.140217 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:00:03.140895 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:00:03.140895 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:00:03.141455 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:00:03.141455 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 20:01:46.088256 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:01:46.090492 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:01:46.091700 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:01:46.092969 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:01:46.092969 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:01:46.093689 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:01:46.093689 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:01:46.094197 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:05:44.760169 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:05:44.762137 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:05:44.763836 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:05:44.764851 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:05:44.764851 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:05:44.765359 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:05:44.765359 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:05:44.765895 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:06:56.099233 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:06:56.101861 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:06:56.102397 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:06:56.102934 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:06:56.103467 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:06:56.103884 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:06:56.103884 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:06:56.103884 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:08:36.219812 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:08:36.222577 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:08:36.223202 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:08:36.224244 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:08:36.224244 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:08:36.224848 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:08:36.224848 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:08:36.225487 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:10:41.449687 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:10:41.451865 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:10:41.452399 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:10:41.452951 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:10:41.453474 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:10:41.453474 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:10:41.454024 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:10:41.454024 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:13:21.606100 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:13:21.608492 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:13:21.609577 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:13:21.610116 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:13:21.610642 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:13:21.610642 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:13:21.610642 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:13:21.611178 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:14:22.441670 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:14:22.447762 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:14:22.453438 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:14:22.454829 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:14:22.454829 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:14:22.455842 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:14:22.455842 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:14:22.455842 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:20:08.863598 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:20:08.865715 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:20:08.866787 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:20:08.867316 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:20:08.867865 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:20:08.867865 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:20:08.867865 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:20:08.868389 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:27:26.509226 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:27:26.511351 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:27:26.511884 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:27:26.512420 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:27:26.512964 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:27:26.512964 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:27:26.513496 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:27:26.513496 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:34:27.803313 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:34:27.804923 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:34:27.806061 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:34:27.806596 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:34:27.807149 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:34:27.807149 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:34:27.807149 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:34:27.807679 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:36:38.117116 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:36:38.118708 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:36:38.119624 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:36:38.120161 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:36:38.120161 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:36:38.120161 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:36:38.120706 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:36:38.120706 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:37:05.814564 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:37:05.818130 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:37:05.819217 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:37:05.819768 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:37:05.819768 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:37:05.820297 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:37:05.820297 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:37:05.820297 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:39:07.846743 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:39:07.848944 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:39:07.850040 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:39:07.850579 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:39:07.850579 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:39:07.851112 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:39:07.851112 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:39:07.851648 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:02.138664 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:40:02.140271 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:02.140800 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:40:02.141328 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:02.141328 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:40:02.141861 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:02.142353 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:40:02.145329 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:29.164877 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:40:29.167122 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:29.167649 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:40:29.168170 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:29.168707 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:40:29.168833 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:40:29.168833 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:40:29.169341 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:10.976782 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:41:10.978931 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:10.979480 handlers.go:45: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:41:10.980011 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:10.980011 handlers.go:45: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:41:10.980553 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:10.980553 handlers.go:45: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:41:10.981084 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:55.038701 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:41:55.040899 handlers.go:36: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:55.041436 handlers.go:46: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:41:55.042522 handlers.go:36: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:55.043018 handlers.go:46: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:41:55.043018 handlers.go:36: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:41:55.043529 handlers.go:46: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:41:55.043529 handlers.go:36: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:46:12.554279 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 20:46:12.556444 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:46:12.557057 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:46:12.557662 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:46:12.558172 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:46:12.558172 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 20:46:12.558172 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 20:46:12.558798 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:13:20.853009 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:13:20.882128 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:13:20.883128 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:13:20.883628 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:13:20.884129 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:13:20.884224 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:13:20.884629 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:13:20.884775 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:14:06.933188 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:14:06.935849 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:14:06.936791 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[ERROR:]2024/01/26 23:14:57.407943 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:14:57.410443 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:16:49.948285 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:16:49.951286 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:20:57.195619 dbConnection.go:44: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:20:57.198120 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:39:03.819445 dbConnection.go:23: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:39:03.821720 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:39:24.108989 dbConnection.go:23: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:39:24.111491 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:41:56.908713 dbConnection.go:23: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:41:56.910966 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:42:25.920203 dbConnection.go:23: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:42:25.922203 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:46:08.503464 dbConnection.go:45: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:46:08.506068 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:46:53.842669 dbConnection.go:45: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:46:53.845074 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:47:29.183636 dbConnection.go:45: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:47:29.186151 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:48:53.509662 dbConnection.go:45: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:48:53.512161 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:49:24.597448 dbConnection.go:46: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:49:24.599949 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:49:40.269850 dbConnection.go:46: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:49:40.272849 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:49:58.047096 dbConnection.go:46: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:49:58.049716 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:50:42.199227 dbConnection.go:45: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/26 23:50:42.201757 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:54:10.897009 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/26 23:54:10.901856 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:54:10.915761 handlers.go:47: Error :Error 1146 (42S02): Table 'article.articles' doesn't exist  Status : 400
+[INFO:] 2024/01/26 23:54:10.917318 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:54:10.918396 handlers.go:47: Error :Error 1146 (42S02): Table 'article.articles' doesn't exist  Status : 400
+[INFO:] 2024/01/26 23:56:03.816019 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/26 23:56:03.818021 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:56:03.940500 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:56:03.941256 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:56:04.001280 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:56:52.023423 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/26 23:56:52.025423 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:56:52.148064 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:56:52.148678 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:56:52.271485 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:57:56.717325 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/26 23:57:56.719137 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:57:56.720136 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:57:56.720636 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:57:56.720636 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:57:56.721139 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:57:56.721139 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:57:56.721638 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:57:56.817398 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:57:56.821678 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:57:56.942230 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:58:15.700261 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/26 23:58:15.702537 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:58:15.703144 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:58:15.703771 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:58:15.703771 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:58:15.703771 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/26 23:58:15.703771 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/26 23:58:15.703771 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:58:15.852228 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/26 23:58:15.852228 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/26 23:58:15.984188 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:01:50.058034 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:01:50.059834 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:01:50.060835 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:01:50.061334 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:01:50.061835 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:01:50.061919 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:01:50.062335 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:01:50.062335 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:01:50.153476 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:01:50.162196 handlers.go:37: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:01:50.221256 handlers.go:51: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:01:50.240237 dbConnection.go:58: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:01:50.240745 handlers.go:37: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:01:50.240745 handlers.go:39: Error : unexpected end of JSON input, Status : 400
+[INFO:] 2024/01/27 00:03:54.511719 dbConnection.go:55: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:03:54.515068 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:03:54.515573 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:03:54.517133 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:03:54.517133 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:03:54.517528 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:03:54.517528 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:03:54.518029 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:03:54.683495 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:03:54.686924 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:03:54.843643 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:03:54.847378 dbConnection.go:55: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:03:54.847840 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:03:54.848051 handlers.go:36: Error : unexpected end of JSON input, Status : 400
+[INFO:] 2024/01/27 00:05:10.234084 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:05:10.236153 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:05:10.237084 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:05:10.237776 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:05:10.238084 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:05:10.238084 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:05:10.238584 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:05:10.239083 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:05:10.396168 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:05:10.396665 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:05:10.530117 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:05:10.533165 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:05:10.533672 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:05:10.533672 handlers.go:36: Error : unexpected end of JSON input, Status : 400
+[INFO:] 2024/01/27 00:08:52.790760 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:08:52.793169 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:08:52.793655 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:08:52.794922 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:08:52.795000 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:08:52.795468 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:08:52.795653 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:08:52.795982 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:08:52.871167 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:08:52.871837 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:08:52.921402 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:08:52.924955 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:08:52.925454 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:08:52.925454 handlers.go:36: Error : unexpected end of JSON input, Status : 400
+[INFO:] 2024/01/27 00:11:16.526272 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:11:16.528443 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:11:16.528947 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:11:16.529947 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:11:16.529947 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:11:16.530446 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:11:16.530446 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:11:16.530966 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:11:16.617681 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:11:16.618181 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:11:16.691549 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:11:16.694021 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:11:16.694673 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:11:16.696548 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:12:14.324960 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:12:14.328547 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:12:14.330416 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:12:14.330737 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:12:14.331239 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:12:14.331337 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:12:14.331337 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:12:14.331836 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:12:14.429853 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:12:14.431076 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:12:14.508032 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:12:14.511104 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:12:14.511975 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:12:14.513635 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:15:43.276778 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:15:43.279420 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:15:43.279992 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:15:43.280813 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:15:43.280813 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:15:43.281313 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:15:43.281313 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:15:43.281814 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:15:43.394205 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:15:43.394538 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:15:43.467336 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:15:43.470082 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:15:43.470583 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:15:43.472380 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:15:43.475574 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:18:23.742566 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:18:23.744661 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:18:23.745162 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:18:23.746161 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:18:23.746161 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:18:23.746661 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:18:23.746661 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:18:23.747464 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:18:23.842701 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:18:23.843287 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:18:23.952662 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:18:23.968946 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:18:23.969445 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:18:23.971603 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:18:23.974257 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:18:23.974257 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:18:23.977397 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:28:24.994686 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:28:24.996697 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:28:24.997425 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:28:24.998197 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:28:24.998197 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:28:24.998697 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:28:24.999196 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:28:24.999196 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:28:25.143791 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:28:25.144412 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:28:25.215095 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:28:25.218096 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:28:25.218596 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:28:25.220927 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:28:25.223824 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:28:25.224029 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:28:25.226479 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:28:25.231231 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:28:25.231661 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:28:25.231661 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:29:23.094197 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:29:23.096448 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:29:23.096949 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:29:23.097950 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:29:23.097950 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:29:23.098448 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:29:23.098448 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:29:23.098949 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:29:23.173711 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:29:23.182145 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:29:23.272264 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:29:23.283211 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:29:23.283710 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:29:23.285103 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:29:23.287903 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:29:23.288211 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:29:23.290358 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:29:23.293210 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:29:23.293210 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:29:23.293711 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:29:23.293940 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:29:23.294210 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:32:58.707802 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:32:58.709802 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.710802 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:32:58.711303 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.711802 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:32:58.711802 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.712302 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:32:58.712633 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:32:58.853901 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:32:58.854400 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:32:58.919723 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:32:58.930276 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:32:58.930380 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:32:58.932128 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:32:58.934711 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:32:58.935382 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:32:58.937210 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:32:58.939824 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:32:58.940341 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.940341 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:32:58.940840 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.940840 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:32:58.941339 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.941339 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:32:58.941840 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:32:58.941840 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:41:33.192113 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:41:33.194498 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.194999 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:41:33.195998 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.195998 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:41:33.196499 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.196499 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:41:33.196997 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:41:33.316210 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:41:33.318172 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:41:33.415926 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:41:33.418959 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:41:33.419458 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:41:33.420459 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:41:33.423458 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:41:33.423958 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:41:33.427959 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:41:33.430963 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:41:33.431138 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.431458 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:41:33.431458 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.431959 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:41:33.431959 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.431959 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:41:33.432589 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:41:33.432589 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:43:16.309351 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:43:16.311630 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.312629 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:43:16.313129 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.313129 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:43:16.313629 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.313629 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:43:16.314180 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:43:16.542936 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:43:16.543436 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:43:16.639567 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:43:16.643462 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:43:16.643462 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:43:16.644643 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:43:16.647363 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:43:16.648018 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:43:16.651369 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:43:16.654016 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:43:16.654016 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.654016 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:43:16.654594 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.654594 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:43:16.655098 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.655098 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:43:16.655598 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:43:16.655598 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:44:03.944156 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:44:03.946284 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:03.947655 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:44:03.948051 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:03.948565 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:44:03.948782 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:03.949065 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:44:03.949452 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:44:04.148800 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:44:04.149300 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:44:04.264324 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:44:04.269762 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:44:04.270265 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:44:04.271903 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:44:04.274549 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:44:04.274944 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:44:04.278062 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:44:04.281525 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:44:04.281924 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:04.281924 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:44:04.282456 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:04.282456 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:44:04.282701 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:04.282701 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:44:04.283203 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:44:04.283203 handlers.go:36: Error : invalid character '{' looking for beginning of object key string, Status : 400
+[INFO:] 2024/01/27 00:45:04.405323 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:04.407323 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:45:04.408323 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:45:04.409322 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:45:04.409322 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:45:04.409322 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:45:04.409824 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:45:04.410093 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:45:04.511777 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:45:04.519829 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:45:04.585551 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:45:04.596634 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:04.597143 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:45:04.598696 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:45:04.601936 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:04.602360 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:45:04.606678 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:45:04.609805 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:04.610096 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:04.610096 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:04.610597 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:04.611096 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:04.611096 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:04.611096 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:04.611579 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:04.611579 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:27.376774 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:27.379688 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:45:27.380689 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:45:27.381690 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:45:27.381690 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:45:27.382189 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:45:27.382535 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:45:27.382837 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:45:27.457206 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:45:27.466930 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:45:27.668254 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:45:27.675671 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:27.676081 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:45:27.677412 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:45:27.679697 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:27.680255 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:45:27.683138 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:45:27.686051 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:45:27.686051 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:27.686573 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:27.686573 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:27.687073 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:27.687073 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:27.687573 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:45:27.687573 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:45:27.688073 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:46:12.127483 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:46:12.129682 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:46:12.130293 handlers.go:43: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:46:12.131593 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:46:12.131593 handlers.go:43: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:46:12.131593 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:46:12.132091 handlers.go:43: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:46:12.132091 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:46:12.341095 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:46:12.341421 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:46:12.433936 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:46:12.444315 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:46:12.444814 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:46:12.449815 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:46:12.460613 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:46:12.460613 handlers.go:79: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:46:12.470791 handlers.go:85: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:46:12.481834 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:46:12.482132 handlers.go:97: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:46:12.482132 handlers.go:101: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:46:12.483132 handlers.go:97: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:46:12.483132 handlers.go:101: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:46:12.483733 handlers.go:97: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:46:12.483733 handlers.go:101: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:46:12.484296 handlers.go:97: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:46:12.484296 handlers.go:101: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:47:58.230524 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:47:58.233606 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:47:58.234608 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:47:58.235106 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:47:58.235106 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:47:58.235607 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:47:58.235607 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:47:58.236107 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:47:58.320569 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:47:58.323935 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:47:58.408339 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:47:58.413329 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:47:58.413597 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:47:58.415197 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:47:58.420538 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:47:58.420889 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:47:58.423827 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:47:58.429229 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:47:58.432667 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:47:58.432775 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:47:58.433316 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:47:58.433316 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:47:58.433316 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:47:58.433316 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:47:58.434214 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:47:58.434214 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:44.120360 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:44.122360 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:49:44.122360 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:49:44.124544 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:49:44.125067 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:49:44.125543 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:49:44.125543 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:49:44.126044 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:49:44.212297 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:49:44.214418 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:49:44.263306 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:49:44.266405 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:44.266905 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:49:44.267905 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:49:44.271071 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:44.271298 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:49:44.274146 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:49:44.277033 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:44.277033 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:44.277538 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:44.277813 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:44.277813 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:44.278318 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:44.278318 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:44.278820 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:44.278820 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:59.427201 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:59.429639 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:49:59.430135 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:49:59.431135 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:49:59.431135 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:49:59.431752 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:49:59.431752 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:49:59.432136 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:49:59.578599 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:49:59.579955 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:49:59.713529 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:49:59.716530 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:59.717029 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:49:59.718425 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:49:59.721342 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:59.721487 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:49:59.724652 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:49:59.727358 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:49:59.727529 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:59.727529 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:59.728029 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:59.728029 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:59.728711 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:59.728711 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:49:59.729028 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:49:59.729373 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:51:39.422280 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:51:39.424728 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:51:39.425229 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:51:39.426228 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:51:39.426228 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:51:39.426728 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:51:39.426728 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:51:39.427191 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:51:39.492956 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:51:39.501386 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:51:39.535439 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:51:39.553415 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:51:39.553915 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:51:39.554916 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:51:39.557977 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:51:39.558259 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:51:39.561246 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:51:39.564135 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:51:39.564636 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:51:39.564636 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:51:39.564846 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:51:39.564846 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:51:39.565135 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:51:39.565135 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:51:39.565636 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:51:39.565636 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:52:48.445706 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:52:48.447706 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:52:48.448846 handlers.go:43: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:52:48.449730 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:52:48.449730 handlers.go:43: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:52:48.450006 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:52:48.450006 handlers.go:43: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:52:48.450511 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:52:48.567449 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:52:48.571895 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:52:48.605652 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:52:48.624150 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:52:48.624236 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:52:48.626296 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:52:48.628810 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:52:48.629312 handlers.go:79: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:52:48.633534 handlers.go:85: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:52:48.637311 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:52:48.637811 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:52:48.637811 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:52:48.638312 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:52:48.638312 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:52:48.638452 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:52:48.638452 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:52:48.638776 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:52:48.638776 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:22.042800 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:22.044799 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:53:22.045799 handlers.go:43: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:53:22.046298 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:53:22.046800 handlers.go:43: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:53:22.046800 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:53:22.046800 handlers.go:43: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:53:22.047299 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:53:22.137663 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:53:22.146431 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:53:22.195315 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:53:22.198316 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:22.198815 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:53:22.200320 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:53:22.202908 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:22.203408 handlers.go:79: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:53:22.206106 handlers.go:85: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:53:22.208707 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:22.209243 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:22.209645 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:22.209836 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:22.210144 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:22.210233 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:22.210233 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:22.210793 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:22.211144 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:35.521491 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:35.523789 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:53:35.525038 handlers.go:43: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:53:35.525836 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:53:35.525836 handlers.go:43: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:53:35.526466 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:53:35.526943 handlers.go:43: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:53:35.527443 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:53:35.657450 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:53:35.665980 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:53:35.778564 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:53:35.789747 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:35.790193 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:53:35.791623 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:53:35.794638 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:35.795208 handlers.go:79: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:53:35.799312 handlers.go:85: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:53:35.802317 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:53:35.802671 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:35.802816 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:35.802816 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:35.803318 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:35.803419 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:35.803419 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:53:35.803808 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:53:35.803808 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:54:34.877042 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:54:34.877042 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:54:34.877042 handlers.go:43: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:54:34.877042 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:54:34.877042 handlers.go:43: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:54:34.881650 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:54:34.881650 handlers.go:43: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:54:34.882147 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:54:34.966874 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:54:34.967374 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:54:35.059369 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:54:35.068705 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:54:35.069239 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:54:35.070284 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:54:35.073120 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:54:35.073234 handlers.go:79: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:54:35.076174 handlers.go:85: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:54:35.079174 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:54:35.079331 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:54:35.079331 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:54:35.079673 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:54:35.079673 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:56:10.026252 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:56:10.028750 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:56:10.029251 handlers.go:43: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:56:10.030218 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:56:10.030218 handlers.go:43: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:56:10.030751 handlers.go:35: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 00:56:10.030751 handlers.go:43: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 00:56:10.031250 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:56:10.126464 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:56:10.134128 handlers.go:35: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 00:56:10.167977 handlers.go:47: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 00:56:10.185793 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:56:10.186294 handlers.go:64: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 00:56:10.187792 handlers.go:70: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:56:10.190438 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:56:10.190792 handlers.go:79: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 00:56:10.194204 handlers.go:85: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 00:56:10.196880 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 00:56:10.197379 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:56:10.197379 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:56:10.197379 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:56:10.197880 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 00:56:10.198051 handlers.go:96: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 00:56:10.198051 handlers.go:100: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:00:47.244486 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:00:47.246370 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:00:47.247370 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:00:47.248000 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:00:47.248370 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:00:47.248869 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:00:47.248869 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:00:47.249323 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 01:00:47.349319 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 01:00:47.349738 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 01:00:47.455139 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 01:00:47.461554 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:00:47.462055 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 01:00:47.463480 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:00:47.466420 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:00:47.466580 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 01:00:47.470080 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:00:47.473425 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:00:47.473580 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:00:47.473580 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:00:47.474140 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:00:47.474140 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:00:47.474824 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:00:47.474824 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:00:47.478907 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:00:47.478979 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 01:00:47.481690 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:04:16.304884 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:04:16.306847 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:04:16.306847 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:04:16.306847 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:04:16.306847 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:04:16.309010 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:04:16.309010 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:04:16.309695 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 01:04:16.390806 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 01:04:16.390889 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 01:04:16.488493 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 01:04:16.494139 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:04:16.494139 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 01:04:16.500305 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:04:16.513268 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:04:16.513268 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 01:04:16.536450 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:04:16.540075 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:04:16.540903 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:04:16.540903 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:04:16.541419 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:04:16.541419 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:04:16.541931 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:04:16.541931 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:04:16.548986 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:04:16.549050 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 01:04:16.562196 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:04:16.572588 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:04:16.573125 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 01:04:16.573125 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:04:16.573125 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 01:04:16.573125 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:04:16.573789 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 01:04:16.573789 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:06:35.996225 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:06:35.999584 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:06:36.000522 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:06:36.001521 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:06:36.001521 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:06:36.002760 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 01:06:36.002760 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 01:06:36.004185 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 01:06:36.077234 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 01:06:36.077730 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 01:06:36.211288 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 01:06:36.214789 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:06:36.215789 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 01:06:36.217823 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:06:36.221652 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:06:36.223128 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 01:06:36.231841 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:06:36.238963 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:06:36.239967 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:06:36.239967 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:06:36.243290 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:06:36.243575 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:06:36.244777 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 01:06:36.244777 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:06:36.249521 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:06:36.250036 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 01:06:36.259549 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 01:06:36.268146 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 01:06:36.268951 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 01:06:36.269080 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:06:36.269788 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 01:06:36.269788 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 01:06:36.272222 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 01:06:36.272222 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 20:13:44.494632 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 20:13:44.516460 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 20:13:44.518175 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 20:13:44.519497 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 20:13:44.519497 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 20:13:44.520217 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 20:13:44.520217 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 20:13:44.521039 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 20:13:44.750936 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 20:13:44.765888 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 20:13:44.879810 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 20:13:44.909175 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 20:13:44.910164 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 20:13:44.934457 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 20:13:44.950299 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 20:13:44.951307 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 20:13:45.221517 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 20:13:45.231683 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 20:13:45.231683 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 20:13:45.231683 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 20:13:45.232357 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 20:13:45.232409 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 20:13:45.232409 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 20:13:45.232409 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 20:13:45.235489 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 20:13:45.235814 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 20:13:45.238407 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 20:13:45.241672 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 20:13:45.242001 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 20:13:45.242001 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 20:13:45.242583 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 20:13:45.242583 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 20:13:45.242583 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 20:13:45.243276 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 22:02:34.330238 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 22:02:34.331366 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 22:02:34.331934 handlers.go:42: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 22:02:34.331934 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 22:02:34.331934 handlers.go:42: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 22:02:34.332438 handlers.go:34: Message : 'AddArticle-API called'
+[ERROR:]2024/01/27 22:02:34.332438 handlers.go:42: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/27 22:02:34.332438 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 22:02:34.430583 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 22:02:34.432117 handlers.go:34: Message : 'AddArticle-API called'
+[INFO:] 2024/01/27 22:02:34.474972 handlers.go:46: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/27 22:02:34.481007 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 22:02:34.481416 handlers.go:63: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/27 22:02:34.483556 handlers.go:69: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/27 22:02:34.487606 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 22:02:34.487606 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 22:02:34.520801 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 22:02:34.524811 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 22:02:34.525454 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 22:02:34.525454 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 22:02:34.525454 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 22:02:34.525454 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 22:02:34.525968 handlers.go:95: Message : 'AddComment-API called'
+[ERROR:]2024/01/27 22:02:34.525968 handlers.go:99: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 22:02:34.528899 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 22:02:34.529406 handlers.go:78: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/27 22:02:34.533742 handlers.go:84: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/27 22:02:34.536201 dbConnection.go:49: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/27 22:02:34.536201 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 22:02:34.536201 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 22:02:34.536201 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 22:02:34.536201 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/27 22:02:34.536738 handlers.go:134: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/27 22:02:34.536738 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
