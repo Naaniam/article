@@ -341,3 +341,27 @@
 [INFO:] 2024/01/29 15:13:19.592263 handlers.go:71: Message : 'ListAllArticles-API called'
 [INFO:] 2024/01/29 15:13:19.593237 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
 >>>>>>> a9db1ec (added message queue)
+[INFO:] 2024/01/29 16:10:35.848430 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:10:35.880436 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:14:26.056894 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:14:26.075421 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:14:46.058793 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:14:46.077993 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:44:48.801061 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:44:48.824199 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:45:25.198932 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:45:25.218494 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:53:36.190364 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:53:36.207891 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:53:45.317930 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 16:53:45.387286 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 16:54:07.108135 dbConnection.go:35: Message : 'Established a successful connection to the database!!!'
+[INFO:] 2024/01/29 16:54:07.126050 routing.go:34: Message : 'Server starts in port 8000...' Status : 200
+[INFO:] 2024/01/29 16:54:10.059722 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 16:54:10.072264 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 16:54:20.728315 handlers.go:71: Message : 'ListAllArticles-API called'
+[ERROR:]2024/01/29 16:54:20.729601 handlers.go:73: Error : no articles yet! Status : 404
+[INFO:] 2024/01/29 16:54:23.613930 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 16:54:23.614606 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 16:55:10.775533 handlers.go:91: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/29 16:55:10.777656 handlers.go:99: Message : 'Article retrieved successfully' Status : 200

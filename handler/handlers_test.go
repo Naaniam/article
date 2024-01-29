@@ -2,13 +2,18 @@ package handler
 
 import (
 	"article/drivers"
+	"article/helpers"
 	"article/repository"
+	"article/utilities"
+	"fmt"
 	"net/http"
 	"net/http/httptest"
+	"os"
 	"strconv"
 	"strings"
 	"testing"
 
+	"github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/gofiber/fiber/v2"
 	"github.com/stretchr/testify/assert"
 )
@@ -16,7 +21,27 @@ import (
 //------------------------------------------------Article-------------------------------------------------------------
 
 // test for the handler to add article
+func KafkaProducer() {
+	hostName, err := os.Hostname()
+	if err != nil {
+		fmt.Println("error occured when getting hostname:", err)
+		return
+	}
+	// Initialize Kafka producer
+	helpers.KafkaProducer, err = kafka.NewProducer(&kafka.ConfigMap{
+		"bootstrap.servers": helpers.KafkaBootstrapServers,
+		"client.id":         hostName,
+		"acks":              "all",
+	})
+	if err != nil {
+		return
+	}
+	fmt.Println("Kafka Producer", helpers.KafkaProducer)
+}
 func TestAddArticle(t *testing.T) {
+	go utilities.StartKafkaConsumer()
+	go KafkaProducer()
+
 	connection := drivers.TestSQLDriver()
 	database := repository.DbConnection{
 		DB: connection,

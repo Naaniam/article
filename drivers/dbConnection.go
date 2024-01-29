@@ -40,9 +40,10 @@ func TestSQLDriver() *gorm.DB {
 	log := logs.Log()
 
 	//Database connection establishment
-	dsn := fmt.Sprint("root:password@tcp(localhost:3306)/article?parseTime=true")
+	dsn := fmt.Sprint("mitrah135:password@tcp(127.0.0.1:3306)/article?parseTime=true")
 	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
+		fmt.Println("error", err)
 		panic(err)
 	}
 

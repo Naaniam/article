@@ -1046,3 +1046,54 @@
 [ERROR:]2024/01/27 22:02:34.536201 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
 [INFO:] 2024/01/27 22:02:34.536738 handlers.go:134: Message : 'AddCommentOnComment-API called'
 [ERROR:]2024/01/27 22:02:34.536738 handlers.go:137: Error : invalid character '{' looking for beginning of object key string Status : 400
+[ERROR:]2024/01/29 16:01:21.081677 dbConnection.go:23: Error : 'Error at loading '.env' file'
+[INFO:] 2024/01/29 16:01:21.082706 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:01:21.083205 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:01:21.084492 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:01:21.084997 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:01:21.085958 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:01:21.086318 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:01:21.087282 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 16:45:30.590012 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:45:30.591118 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:45:30.591494 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:45:30.592302 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:45:30.592736 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:45:30.593751 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:45:30.594051 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:45:30.594786 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 16:45:30.620780 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 16:53:26.223815 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:53:26.225230 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:53:26.225741 handlers.go:47: Error :Key: 'Article.Nickname' Error:Field validation for 'Nickname' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:53:26.226848 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:53:26.227143 handlers.go:47: Error :Key: 'Article.Title' Error:Field validation for 'Title' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:53:26.228018 handlers.go:39: Message : 'AddArticle-API called'
+[ERROR:]2024/01/29 16:53:26.228293 handlers.go:47: Error :Key: 'Article.Content' Error:Field validation for 'Content' failed on the 'required' tag  Status : 400
+[INFO:] 2024/01/29 16:53:26.229017 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 16:53:26.247147 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 16:53:26.248008 handlers.go:39: Message : 'AddArticle-API called'
+[INFO:] 2024/01/29 16:53:26.255474 handlers.go:54: Message : 'Article added successfully' Status : 201
+[INFO:] 2024/01/29 16:53:26.259226 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:53:26.259905 handlers.go:71: Message : 'ListAllArticles-API called'
+[INFO:] 2024/01/29 16:53:26.260813 handlers.go:82: Message : 'Article(s) retrieved successfully' Status : 200
+[INFO:] 2024/01/29 16:53:26.263633 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:53:26.264396 handlers.go:91: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/29 16:53:26.267604 handlers.go:99: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/29 16:53:26.270266 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:53:26.271149 handlers.go:110: Message : 'AddComment-API called'
+[ERROR:]2024/01/29 16:53:26.271370 handlers.go:114: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/29 16:53:26.272119 handlers.go:110: Message : 'AddComment-API called'
+[ERROR:]2024/01/29 16:53:26.272290 handlers.go:114: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/29 16:53:26.272927 handlers.go:110: Message : 'AddComment-API called'
+[ERROR:]2024/01/29 16:53:26.273158 handlers.go:114: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/29 16:53:26.276314 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:53:26.277062 handlers.go:91: Message : 'ListArticleByID-API called'
+[INFO:] 2024/01/29 16:53:26.280237 handlers.go:99: Message : 'Article retrieved successfully' Status : 200
+[INFO:] 2024/01/29 16:53:26.283419 dbConnection.go:50: Message : 'Established a successful connection to database!!!'
+[INFO:] 2024/01/29 16:53:26.284478 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/29 16:53:26.284694 handlers.go:158: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/29 16:53:26.285438 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/29 16:53:26.285686 handlers.go:158: Error : invalid character '{' looking for beginning of object key string Status : 400
+[INFO:] 2024/01/29 16:53:26.286404 handlers.go:155: Message : 'AddCommentOnComment-API called'
+[ERROR:]2024/01/29 16:53:26.286625 handlers.go:158: Error : invalid character '{' looking for beginning of object key string Status : 400
