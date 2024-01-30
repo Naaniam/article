@@ -5,7 +5,6 @@ import (
 	// user defined package
 	"article/models"
 	"article/utilities"
-	"time"
 
 	// built-in packages
 	"fmt"
@@ -100,7 +99,6 @@ func (db *DbConnection) AddComment(articleID string, comment *models.Comment) er
 	}
 
 	comment.ArticleID = article.ID
-	comment.CreationDate = time.Now()
 
 	//adding the comment details to the comments table
 	if err := db.DB.Create(&comment).Error; err != nil {

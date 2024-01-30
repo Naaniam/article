@@ -45,9 +45,6 @@ func (h *Handler) AddArticle(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": err.Error()})
 	}
 
-	article.CreationDate = time.Now()
-	article.UpdatedAt = time.Now()
-
 	if err := h.Repo.AddArticle(&article); err != nil {
 		logrusEntry.Errorf("Error :%s  Status : 400", err.Error())
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": err.Error()})
@@ -126,9 +123,6 @@ func (h *Handler) AddComment(c *fiber.Ctx) error {
 		logrusEntry.Errorf("Error : %s Status : 400", err.Error())
 		return c.Status(fiber.StatusBadRequest).JSON(fiber.Map{"error": err.Error()})
 	}
-
-	comment.CreationDate = time.Now()
-	comment.UpdatedAt = time.Now()
 
 	if err := h.Repo.AddComment(c.Query("article_id"), &comment); err != nil {
 		logrusEntry.Errorf("Error : %s Status : 400", err.Error())

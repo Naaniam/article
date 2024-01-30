@@ -38,6 +38,7 @@ func KafkaProducer() {
 	}
 	fmt.Println("Kafka Producer", helpers.KafkaProducer)
 }
+
 func TestAddArticle(t *testing.T) {
 	go utilities.StartKafkaConsumer()
 	go KafkaProducer()
