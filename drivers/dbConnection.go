@@ -3,9 +3,11 @@ package drivers
 import (
 
 	// built-in package
-	"article/logs"
+
+	"article/helpers"
 	"fmt"
 	"os"
+	"time"
 
 	// third party package
 
@@ -17,14 +19,18 @@ import (
 
 func SQLDriver() *gorm.DB {
 	var err error
-
-	logrusEntry := logrus.WithFields(logrus.Fields{
-		"function": "DB connection",
-	})
+	helpers.Log.WithFields(logrus.Fields{
+		"service":    "article",
+		"function":   "DB connection",
+		"started_at": time.Now(),
+	}).Info("DB connection establishment -started")
 
 	err = godotenv.Load(".env")
 	if err != nil {
-		logrusEntry.Errorf("Error : 'Error at loading '.env' file'")
+		helpers.Log.WithFields(logrus.Fields{
+			"service": "article",
+			"error":   err.Error(),
+		}).Errorf("Error loading .env file")
 		return nil
 	}
 
@@ -32,25 +38,37 @@ func SQLDriver() *gorm.DB {
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", os.Getenv("USER"), os.Getenv("PASSWORD"), os.Getenv("HOST"), os.Getenv("PORT"), os.Getenv("DATABASE"))
 	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
-		logrusEntry.Error("Error : 'Invalid Database connection' ", err)
+		helpers.Log.WithFields(logrus.Fields{
+			"service": "article",
+			"message": err.Error(),
+		}).Error("Failed to connect to the database")
 		panic(err)
 	}
 
-	logrusEntry.Info("Message : 'Established a successful connection to the database!!!'\n")
+	helpers.Log.WithFields(logrus.Fields{
+		"service": "article",
+		"message": "Established a successful connection to the database!",
+	}).Info("Message : Established a successful connection to the database!")
 	return db
 }
 
 func TestSQLDriver() *gorm.DB {
-	log := logs.Log()
+	helpers.Log.WithFields(logrus.Fields{
+		"service":    "article",
+		"function":   "DB connection",
+		"started_at": time.Now(),
+	}).Info("DB connection establishment -started")
 
 	//Database connection establishment
 	dsn := fmt.Sprint("mitrah135:password@tcp(127.0.0.1:3306)/article?parseTime=true")
 	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
-		fmt.Println("error", err)
-		panic(err)
+		helpers.Log.Fatal("error:", err)
 	}
 
-	log.Info.Println("Message : 'Established a successful connection to database!!!'")
+	helpers.Log.WithFields(logrus.Fields{
+		"service": "article",
+		"message": "Established a successful connection to database!!!",
+	}).Info("Message : 'Established a successful connection to database!!!'")
 	return db
 }

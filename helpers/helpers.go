@@ -1,6 +1,9 @@
 package helpers
 
-import "github.com/confluentinc/confluent-kafka-go/kafka"
+import (
+	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/sirupsen/logrus"
+)
 
 const (
 	KafkaBootstrapServers = "localhost:9092"
@@ -13,3 +16,6 @@ var KafkaProducer *kafka.Producer
 
 // Kafka consumer
 var KafkaConsumer *kafka.Consumer
+
+// Log
+var Log *logrus.Logger

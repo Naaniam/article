@@ -10,9 +10,11 @@ import (
 	"article/router"
 	"article/utilities"
 	"fmt"
+	"io"
 	"os"
 
 	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/sirupsen/logrus"
 )
 
 func init() {
@@ -34,7 +36,20 @@ func init() {
 }
 
 func main() {
+	helpers.Log = logrus.New()
+
+	// Create a new log file or open an existing one
+	file, err := os.OpenFile("log.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	if err != nil {
+		helpers.Log.Fatal("Failed to open log file: ", err)
+	}
+
+	// Set the log output to the file
+	multiWriter := io.MultiWriter(os.Stdout, file)
+	helpers.Log.SetOutput(multiWriter)
+
 	go utilities.StartKafkaConsumer()
+
 	// Establishing a DB-connection
 	connection := drivers.SQLDriver()
 	// Checking for Database updates
@@ -42,6 +57,5 @@ func main() {
 
 	// Routing all handlers
 	router.Routing(repository.NewDbConnection(connection))
-	//go utilities.StartKafkaConsumer()
 
 }

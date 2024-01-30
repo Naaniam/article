@@ -35,6 +35,5 @@ func StartKafkaConsumer() {
 			log.Printf("Non-fatal consumer error: %v (%v)\n", err, msg)
 		}
 	}
-
 }
 
